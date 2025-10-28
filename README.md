@@ -3,6 +3,7 @@
 ## Overview
 The **Quiz Application** is a desktop-based program developed in **Java Swing** that allows users to participate in a multiple-choice quiz.  
 It presents questions one by one, records user responses, calculates the final score, and displays the result with an option to restart the quiz.
+Integrated a countdown timer for each question.
 
 ## Features
 - Multiple-choice question interface with four options per question  
